@@ -14,5 +14,8 @@
         }
     ],
     "start_url": "/kc85.html?type=kc85_3&mod=m022&file=jungle.kcc",
-    "display": "standalone"
+    "display": "standalone",
+    "background_color": "#333333",
+    "theme_color": "#FF8844"
+
 }
