@@ -1,0 +1,18 @@
+{
+    "short_name": "Jungle",
+    "name": "Jungle (by Sowaco/dB)",
+    "icons": [
+        {
+            "src": "/icon-512.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/icon-192.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "/kc85.html?type=kc85_3&mod=m022&file=jungle.kcc",
+    "display": "standalone"
+}
